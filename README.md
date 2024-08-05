@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @other-kat
-- 🌱 I'm an artist make audio visual software in MaxMSP and Jitter.
-- 💞️ I’m currently learning HTML.
-- 📫 How to reach me katmacdonald@protonmail.com
-- 😄 Pronouns: she / her
+- hi, i’m @other-kat!
+- i'm an artist make audio visual software in maxmsp and jitter.
+- i’m currently learning java.
+- my email is katmacdonald@protonmail.com
+- pronouns: she / her
 
 <!---
 other-kat/other-kat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
