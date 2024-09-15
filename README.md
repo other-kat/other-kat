@@ -1,6 +1,6 @@
 - hi, i’m @other-kat!
 - i'm an artist make audio visual software in maxmsp and jitter.
-- i’m currently learning java.
+- i’m currently learning javascript.
 - my email is katmacdonald@protonmail.com
 - pronouns: she / her
 
